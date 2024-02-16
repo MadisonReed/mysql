@@ -29,7 +29,7 @@
     "bluebird": "^3.2.1",
     "db-migrate-base": "https://github.com/MadisonReed/db-migrate-base/tarball/v1.2.5b",
     "moment": "^2.11.2",
-    "mysql": "^2.10.2"
+    "mysql2": "^3.6.3"
   },
   "devDependencies": {
     "db-meta": "^0.4.1",
